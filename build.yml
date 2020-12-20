@@ -1,0 +1,12 @@
+image: containers
+org: crunosfs
+
+network: true
+disable-content-trust: true
+
+#depends:
+#  docker-images: 
+#    list:
+#      - crunos/mdevd:latest
+#      - crunos/udhcpc:latest
+#    target: services.tar

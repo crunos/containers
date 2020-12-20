@@ -1,0 +1,6 @@
+services:
+  - name: mdevd
+    image: crunospkgs/mdevd:latest
+
+  - name: udhcpc
+    image: crunospkgs/udhcpc:latest
